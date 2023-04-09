@@ -1,7 +1,6 @@
 <h1 align="Center"> Console.log("Hola Mundo!!👋")</h1>
-<h1>Hola a todos!!!!!!!👋, Soy Jorge </h1>
-<img src="source\rem-re-zero.gif">
-
+<div><img src="source\chika-yeah.gif"></div>
+<p>Hola a todos!!!!!!!👋, Soy Jorge </p>
 
 
 <div align="center">
