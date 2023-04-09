@@ -1,5 +1,5 @@
 <h1 align="Center"> Console.log("Hola Mundo!!👋")</h1>
-<div><img src="source\chika-yeah.gif" width="100" height="100"/></div>
+<<img src="source\chika-yeah.gif" align="left "width="100" height="100"/>
 <p>Hola a todos!!!!!!!👋, Soy Jorge </p>
 
 
