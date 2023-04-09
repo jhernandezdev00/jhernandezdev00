@@ -1,7 +1,7 @@
 # Console.log("Hola Mundo!!👋")
 <link rel="stylesheet" href="styles.css">
 
-<h1 align="center">Hi 👋, Soy Jorge </h1>
+<h1>Hi 👋, Soy Jorge </h1>
 
 
 
