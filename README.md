@@ -1,6 +1,6 @@
 <h1 align="Center"> Console.log("Hola Mundo!!👋")</h1>
 <a href="" target="_blank"><img align="right" alt="Chika-Happy" width="250px" src="source\chika-yeah.gif"/></a>
-<h2 align="left">Hola a todos !!!!!!!</h2>
+<h1 align="left"> 🙂 Hola a todos !!!!!!! 🙂</h1>
 
 <br>
 <div><h4>Soy <b><i>Jorge Antonio</i></b>, soy estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️, 🤖ciencia de datos 🤖 y 💻desarrollo web💻. Aunque me encanta desarrollar todo tipo de software.</b></h4></div>
