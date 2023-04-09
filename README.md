@@ -1,10 +1,22 @@
 <h1 align="Center"> Console.log("Hola Mundo!!👋")</h1>
-<p> <img src="source\chika-yeah.gif" align="left "width="100" height="100"/> Hola a todos!!!!!!!👋, Soy Jorge </p>
+<a href="" target="_blank"><img align="right" alt="Chika-Happy" width="250px" src="source\chika-yeah.gif"/></a>
+<h2 align="left">Hola a todos !!!!!!!</h2>
+
+<br>
+<div><h4>Soy <b><i>Jorge Antonio</i></b>, soy estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️, 🤖ciencia de datos 🤖 y 💻desarrollo web💻. Aunque me encanta desarrollar todo tipo de software.</b></h4></div>
+<br>
+<br>
+
+___
 
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeDX2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeDX2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<div align="center">
     <h3 align="center">Lenguajes y Herramientas:</h3>
-    <p align="left"> 
+    <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -17,12 +29,16 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     </p>
 </div>
+<br>
 
-
-
-
-
-
+___
+<div align="left">
+  <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
+  <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+</div>
 
 
 <!--
