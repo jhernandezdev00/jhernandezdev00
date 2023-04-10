@@ -1,9 +1,11 @@
 <h1 align="Center"> Console.log("Hola Mundo!!👋")</h1>
-<a href="" target="_blank"><img align="right" alt="Chika-Happy" width="250px" src="source\chika-yeah.gif"/></a>
+
+<div><a href="" target="_blank" rel="noreferrer"><img align="right" alt="Chika-Happy" width="250px" src="source\chika-yeah.gif"/></a></div>
+
 <h1 align="left"> 🙂 Hola a todos !!!!!!! 🙂</h1>
 
 <br>
-<div><h4>Soy <b><i>Jorge Antonio</i></b>, soy estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️, 🤖ciencia de datos 🤖 y 💻desarrollo web💻. <br>Aunque me encanta desarrollar todo tipo de software.</b></h4></div>
+<div><h3>Soy <b><i>Jorge Antonio</i></b>, soy estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️,  🤖ciencia de datos 🤖 y 💻desarrollo web💻. <br>Aunque me encanta desarrollar todo tipo de software.</b></h3></div>
 <br>
 <br>
 
@@ -33,6 +35,7 @@ ___
 
 ___
 <div align="left">
+  <h2>Contactame:</h2>
   <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
   <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
   <a href="https://github.com/GeorgeDX2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
