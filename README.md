@@ -2,10 +2,9 @@
 
 <div><a href="" target="_blank" rel="noreferrer"><img align="right" alt="Chika-Happy" width="250px" src="source\chika-yeah.gif"/></a></div>
 
-<h1 align="left"> 🙂 Hola a todos !!!!!!! 🙂</h1>
 
 <br>
-<div><h3>Soy <b><i>Jorge Antonio</i></b>, un estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️,🤖ciencia de datos🤖 y💻desarrollo web💻.<br>Aunque me encanta desarrollar todo tipo de software.</b></h3></div>
+<div><h3>Hola a todos !!!!!!!🙂 Soy <b><i>Jorge Antonio</i></b>, un estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️,🤖ciencia de datos🤖 y💻desarrollo web💻.<br>Aunque me encanta desarrollar todo tipo de software.</b></h3></div>
 <br>
 <br>
 
