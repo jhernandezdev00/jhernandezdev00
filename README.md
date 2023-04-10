@@ -5,7 +5,7 @@
 <h1 align="left"> 🙂 Hola a todos !!!!!!! 🙂</h1>
 
 <br>
-<div><h3>Soy <b><i>Jorge Antonio</i></b>, soy estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️,🤖ciencia de datos 🤖 y 💻desarrollo web💻. <br>Aunque me encanta desarrollar todo tipo de software.</b></h3></div>
+<div><h3>Soy <b><i>Jorge Antonio</i></b>, soy estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️,🤖ciencia de datos🤖 y💻desarrollo web💻.<br>Aunque me encanta desarrollar todo tipo de software.</b></h3></div>
 <br>
 <br>
 
@@ -16,6 +16,7 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=GeorgeDX2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeDX2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 <div align="center">
     <h3 align="center">Lenguajes y Herramientas:</h3>
     <p align="center"> 
