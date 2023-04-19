@@ -6,6 +6,9 @@
 	<a href="" target="_blank"><img src="source\chika-yeah.gif" width="180px" align="right"></a>
 	<h2> Hola a todos !!!!!!!🙂Soy <b><i>Jorge Antonio</i></b>, un estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️, 🤖ciencia de datos🤖 y💻desarrollo web💻 Aunque me encanta desarrollar de todo.</h2>
 </div>
+<br>
+
+[![Linkedin](https://img.shields.io/badge/-Jorge_Hernandez-blue?style=flat-square&logo=Linkedin&logoColor=&link=https://www.linkedin.com/in/jorgehernandez00/)](https://www.linkedin.com/in/jorgehernandez00/)
 
 <br clear="all">
 
