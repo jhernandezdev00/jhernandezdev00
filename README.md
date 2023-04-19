@@ -2,7 +2,7 @@
 <h1 align="Center">Console.log("Hola Mundo!!👋")</h1>
 
 <div style="font-style: italic" id="my_menu" align="right">
-	<a href="Contactame">CONTACTAME</a> | <a href="Acerca_de">ABOUT</a>
+	<a href="#">CONTACTAME</a> |
 </div>
 
 ---
