@@ -9,7 +9,7 @@
 
 
   <a href="" target="_blank"><img src="source\chika-yeah.gif" width="280px" hspace="10" align="left"></a>
-  <br>
+
   <h2 style="text-align:justify;">Hola a todos !!!!!!!🙂Soy <b><i>Jorge Antonio</i></b>, un estudiante de la carrera de computación inteligente interesado en aprender y adentrarme en el campo de la <b>🕵️‍ciberseguridad🕵️‍♀️, 🤖ciencia de datos🤖 y💻desarrollo web💻 Aunque me encanta desarrollar de todo.</h>
 
 <br clear="all">
