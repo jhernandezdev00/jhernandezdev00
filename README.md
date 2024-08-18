@@ -16,8 +16,8 @@
 
 <div id="Estadisticas" align="center">
   <h1 align="left">&#9996;Mis Estadisticas&#9996;</h1>
-  <img height="150px" vspace="10" src="https://github-readme-stats.vercel.app/api?username=GeorgeDX2&locale=es&show_icons=true&theme=tokyonight">
-  <img height="150px" vspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDX2&locale=es&layout=compact&theme=tokyonight">
+  <img height="150px" vspace="10" src="https://github-readme-stats.vercel.app/api?username=jhernandezdev00&locale=es&show_icons=true&theme=tokyonight">
+  <img height="150px" vspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhernandezdev00&locale=es&layout=compact&theme=tokyonight">
 </div>
 <br clear="all">
 
