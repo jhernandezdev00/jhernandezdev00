@@ -7,7 +7,7 @@
 </div>
 <h2 align="center">ACERCA DE MI</h2>
 <div align="justify">
-    <img src="assets\mydressupdarling.gif" align="right" width=200px>
+    <img src="assets\mydressupdarling.gif" align="right" width=240px>
     <p>Hola a todos soy Jorge, un apasionado de la tecnologia y desarrollador de software. 
     Me facina explorar el fascinante mundo de la ciberseguridad, la ciencia de datos, el backend y desarrollo web. 
     Me encanta desarrollar proyectos de todo tipo, y siempre estoy en busca de nuevos conocimientos y retos para seguir creciendo.🚀</p>
@@ -16,9 +16,9 @@
 <hr>
 <div align="center">
     <p>¡No dudes en contactarme! <br>Estaré encantado de ayudarte en lo que necesites.</p>
-    <img src="https://img.shields.io/github/followers/jhernandezdev00?label=follow&style=social">
-    <img src="https://img.shields.io/badge/Jorge%20Antonio-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjhernandezdev00%2F" alt="Perfil de linkedin">
-    <img src="https://img.shields.io/badge/Send%20Me%20An%20Email-white?style=flat&logo=gmail&link=mailto%3Ajhernandez.dev00%40gmail.com" alt="Correo Electronico">
+    <a href="https://github.com/jhernandezdev00"><img src="https://img.shields.io/github/followers/jhernandezdev00?label=follow&style=social"></a>
+    <a href="https://www.linkedin.com/in/jhernandezdev00/"><img src="https://img.shields.io/badge/Jorge%20Antonio-blue?style=flat" alt="Perfil de linkedin"></a>
+    <a href="mailto:jhernandez.dev00@gmail.com"><img src="https://img.shields.io/badge/Send%20Me%20An%20Email-white?style=flat&logo=gmail" alt="Correo Electronico"></a>
 </div>
 <hr>
 
