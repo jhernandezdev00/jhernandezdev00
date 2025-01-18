@@ -7,12 +7,12 @@
 </div>
 <h2 align="center">ACERCA DE MI</h2>
 <div align="justify">
-    <img src="assets\mydressupdarling.gif" align="right" width=240px>
+    <img src="assets\mydressupdarling.gif" align="right" width=200px>
     <p>Hola a todos soy Jorge, un apasionado de la tecnologia y desarrollador de software. 
     Me facina explorar el fascinante mundo de la ciberseguridad, la ciencia de datos, el backend y desarrollo web. 
     Me encanta desarrollar proyectos de todo tipo, y siempre estoy en busca de nuevos conocimientos y retos para seguir creciendo.🚀</p>
 </div>
-<br>
+<br><br>
 <hr>
 <div align="center">
     <p>¡No dudes en contactarme! <br>Estaré encantado de ayudarte en lo que necesites.</p>
