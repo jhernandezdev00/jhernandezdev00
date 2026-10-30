@@ -26,7 +26,7 @@
     </a>
 </div>
 <hr>
-<h2 align="center">🛠️ Lenguajes y Herramientas 🛠️</h2>
+<h2 align="left">Lenguajes y Herramientas</h2>
 
 <div align="center">
 <table>
