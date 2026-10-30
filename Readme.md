@@ -52,12 +52,8 @@
 
 <div align="center">
     <p>¡No dudes en contactarme! <br>Estaré encantado de ayudarte en lo que necesites.</p>
-    <a href="https://www.linkedin.com/in/jhernandezdev00/">
-        <img src="https://img.shields.io/badge/LinkedIn-Cont%C3%A1ctame-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn">
-    </a>
-    <a href="mailto:jhernandez.dev00@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=flat&logo=gmail&logoColor=white" alt="Correo electrónico">
-    </a>
+    <a href="https://www.linkedin.com/in/jhernandezdev00/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"></a>
+    <a href="mailto:jhernandez.dev00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Correo electrónico" title="Escríbeme"></a>
 </div>
 
 <hr>
