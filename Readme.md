@@ -56,4 +56,3 @@
     <a href="mailto:jhernandez.dev00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Correo electrónico" title="Escríbeme"></a>
 </div>
 
-<hr>
