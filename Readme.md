@@ -28,15 +28,20 @@
 <hr>
 <h2 align="center">🛠️ Lenguajes y Herramientas 🛠️</h2>
 
+<div align="center">
 <table>
-    <!-- Datos e IA -->
+  <!-- Datos, ML e IA -->
   <tr>
-    <th colspan="6">📊 Datos e IA</th>
+    <th colspan="7">📊 Datos, Machine Learning e IA</th>
   </tr>
   <tr>
     <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=py" alt="Python" height="48"/>
-     <br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="48"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/SAS-0766D1?style=for-the-badge" alt="SAS" height="28"/>
+      <br><br>SAS
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" height="48"/>
@@ -51,12 +56,129 @@
       <br>scikit-learn
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="48"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="48"/>
       <br>Jupyter
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="Seaborn" height="48"/>
+      <br>Seaborn
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly / Dash" height="48"/>
       <br>Plotly / Dash
     </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" height="48"/>
+      <br>Power BI
+    </td>
+    <td colspan="4"></td>
+  </tr>
+
+  <!-- Bases de datos -->
+  <tr>
+    <th colspan="7">🗄️ Bases de datos</th>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="48"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="48"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" height="48"/>
+      <br>SQL Server
+    </td>
+    <td colspan="4"></td>
+  </tr>
+
+  <!-- Backend e ingeniería de datos -->
+  <tr>
+    <th colspan="7">⚙️ Backend e ingeniería de datos</th>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="48"/>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" height="48"/>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="Podman" height="48"/>
+      <br>Podman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="48"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git / GitHub" height="48"/>
+      <br>Git / GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" height="48"/>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bruno/bruno-original.svg" alt="Bruno" height="48"/>
+      <br>Bruno
+    </td>
+  </tr>
+
+  <!-- Lenguajes y desarrollo web -->
+  <tr>
+    <th colspan="7">💻 Lenguajes y desarrollo web</th>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="48"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="48"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="48"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" height="48"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" height="48"/>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="48"/>
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="48"/>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" height="48"/>
+      <br>Markdown
+    </td>
+    <td colspan="5"></td>
   </tr>
 </table>
+</div>
